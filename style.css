@@ -174,8 +174,8 @@ nav a:hover {
 }
 
 .glow-circle {
-  width: 280px;
-  height: 280px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   background: radial-gradient(circle, #b84cff 40%, transparent 70%);
   display: flex;
@@ -184,8 +184,8 @@ nav a:hover {
 }
 
 .glow-circle img {
-  width: 210px;
-  height: 210px;
+  width: 280px;
+  height: 280px;
   border-radius: 50%;
   object-fit: cover;      /* 🔥 KEY FIX */
   object-position: top;   /* centers face properly */
@@ -452,3 +452,4 @@ nav a:hover {
   margin-top: 15px;
   font-size: 14px;
 }
+
